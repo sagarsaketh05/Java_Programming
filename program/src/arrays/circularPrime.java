@@ -1,3 +1,5 @@
+package arrays;
+
 import java.util.*;
 public class circularPrime {
     public static void main(String[] args) {

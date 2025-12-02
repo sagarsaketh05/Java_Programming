@@ -1,3 +1,5 @@
+package arrays;
+
 import java.util.Scanner;
 public class Lcm {
     public static void main(String[] args) {

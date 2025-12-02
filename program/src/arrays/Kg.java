@@ -1,3 +1,5 @@
+package arrays;
+
 //convert kg into grams
 public class Kg {
     public static void main(String[] args) {

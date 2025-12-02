@@ -1,4 +1,5 @@
-import java.sql.SQLOutput;
+package arrays;
+
 import java.util.Scanner;
 public class SumOfArray {
     public static void main(String[] args) {
